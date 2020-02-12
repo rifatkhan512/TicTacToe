@@ -7,12 +7,8 @@ root.resizable(0,0)
 
 current_player="O"
 
-
 a=Chok.Board(current_player,root)
-
 
 a.newboard()
 
 root.mainloop()
-
-
